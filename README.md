@@ -1,1 +1,9 @@
 # CS230-Operating-Platforms
+The Gaming Room was our client and consists of a gaming application that was initially created for Android systems.
+The Gaming Room wanted to expand their user base by bringing the application to other platforms such as Windows, Mac and Linux as well as mobile platforms to garner a larger user base.
+Developing this documentation I found that my strong suit was finding new information and the use cases for the variety of platforms and coming to the conclusion and finding a proper recommendation for the client on their server side platform choice as well as the architecture involved.
+Working through the design document I found it insightful to see the general scope of the code and get an overall understanding of what to work towards to reach the end goal for the customer.
+If I could choose one part of my work on these documetns to revise I would pick the evaluation of the different platforms I feel like there could have been a more indepth approach taken further than what was put forward.
+I interpreted the user's needs and implemented them into the software design by ensuring the use of a Singleton class I found that was a major contributor towards their needs and ensured no duplication in player information in the use of the application.
+It is important to consider the user's needs when designing because you want to retain the user's as well as garner a larger user base and that is done by ensuring a smooth user experience whether it be through easy to use and understand user interfaces or maximizing the performance of the application to accomodate weaker systems.
+I approached the design aspect of the software by ensuring the needs of the customer while thinking of the user experience, prioritizing the most important aspects of the application development process.
